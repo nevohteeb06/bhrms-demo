@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bhrms-demo/static/css/main.3227fae7.chunk.css",
+    "main.js": "/bhrms-demo/static/js/main.355f09cc.chunk.js",
+    "main.js.map": "/bhrms-demo/static/js/main.355f09cc.chunk.js.map",
+    "runtime-main.js": "/bhrms-demo/static/js/runtime-main.ba0a19b5.js",
+    "runtime-main.js.map": "/bhrms-demo/static/js/runtime-main.ba0a19b5.js.map",
+    "static/css/2.02416e7b.chunk.css": "/bhrms-demo/static/css/2.02416e7b.chunk.css",
+    "static/js/2.da3a09a2.chunk.js": "/bhrms-demo/static/js/2.da3a09a2.chunk.js",
+    "static/js/2.da3a09a2.chunk.js.map": "/bhrms-demo/static/js/2.da3a09a2.chunk.js.map",
+    "index.html": "/bhrms-demo/index.html",
+    "static/css/2.02416e7b.chunk.css.map": "/bhrms-demo/static/css/2.02416e7b.chunk.css.map",
+    "static/css/main.3227fae7.chunk.css.map": "/bhrms-demo/static/css/main.3227fae7.chunk.css.map",
+    "static/js/2.da3a09a2.chunk.js.LICENSE.txt": "/bhrms-demo/static/js/2.da3a09a2.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/bhrms-demo/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba0a19b5.js",
+    "static/css/2.02416e7b.chunk.css",
+    "static/js/2.da3a09a2.chunk.js",
+    "static/css/main.3227fae7.chunk.css",
+    "static/js/main.355f09cc.chunk.js"
+  ]
+}
